@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c0b3f25c4fce1300ab6174828110c7ec</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_ci">
+    <cmdb_rel_ci action="INSERT_OR_UPDATE">
+        <child display_value="Azure CMP Usecase Svc Account">f553fa5cdb4a130006817d668c961982</child>
+        <connection_strength>always</connection_strength>
+        <parent display_value="West US">80b3f25c4fce1300ab6174828110c765</parent>
+        <percent_outage/>
+        <port/>
+        <sys_created_by>midserver</sys_created_by>
+        <sys_created_on>2018-05-09 16:14:08</sys_created_on>
+        <sys_id>c0b3f25c4fce1300ab6174828110c7ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>midserver</sys_updated_by>
+        <sys_updated_on>2018-05-09 16:14:08</sys_updated_on>
+        <type display_value="Hosted on::Hosts">5f985e0ec0a8010e00a9714f2a172815</type>
+    </cmdb_rel_ci>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>shantanu.singh@snc</sys_created_by>
+        <sys_created_on>2018-05-09 16:31:22</sys_created_on>
+        <sys_id>34a7b650db8a130006817d668c96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2018-05-09 09:14:08</sys_name>
+        <sys_package display_value="CMP Usecases" source="x_snc_cmp_usecases">947132d4db4a130006817d668c96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMP Usecases">947132d4db4a130006817d668c96193c</sys_scope>
+        <sys_update_name>sys_metadata_link_34a7b650db8a130006817d668c96198f</sys_update_name>
+        <sys_updated_by>shantanu.singh@snc</sys_updated_by>
+        <sys_updated_on>2018-05-09 16:31:22</sys_updated_on>
+        <tablename>cmdb_rel_ci</tablename>
+    </sys_metadata_link>
+</record_update>

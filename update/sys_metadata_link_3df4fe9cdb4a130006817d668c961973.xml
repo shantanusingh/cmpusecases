@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>66e27698db4a130006817d668c961944</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_ca_assc_datacenter">
+    <sn_cmp_ca_assc_datacenter action="INSERT_OR_UPDATE">
+        <alias>AWS Datacenter - us-west-1</alias>
+        <cloud_account display_value="AWS Cloud Account">81d1b61cdb4a130006817d668c96196b</cloud_account>
+        <ldc_id display_value="us-west-1">16c2721c4fce1300ab6174828110c744</ldc_id>
+        <mid_server/>
+        <resource_block display_value="AWS Datacenter">0279b35e0be622009e620bcb15673a2e</resource_block>
+        <status>1</status>
+        <sys_created_by>shantanu.singh@snc</sys_created_by>
+        <sys_created_on>2018-05-09 16:10:44</sys_created_on>
+        <sys_id>66e27698db4a130006817d668c961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>shantanu.singh@snc</sys_updated_by>
+        <sys_updated_on>2018-05-09 16:10:44</sys_updated_on>
+    </sn_cmp_ca_assc_datacenter>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>shantanu.singh@snc</sys_created_by>
+        <sys_created_on>2018-05-09 16:19:42</sys_created_on>
+        <sys_id>3df4fe9cdb4a130006817d668c961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AWS Datacenter - us-west-1</sys_name>
+        <sys_package display_value="CMP Usecases" source="x_snc_cmp_usecases">947132d4db4a130006817d668c96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMP Usecases">947132d4db4a130006817d668c96193c</sys_scope>
+        <sys_update_name>sys_metadata_link_3df4fe9cdb4a130006817d668c961973</sys_update_name>
+        <sys_updated_by>shantanu.singh@snc</sys_updated_by>
+        <sys_updated_on>2018-05-09 16:19:42</sys_updated_on>
+        <tablename>sn_cmp_ca_assc_datacenter</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_os_profile_mapping">
+    <sn_cmp_os_profile_mapping action="INSERT_OR_UPDATE">
+        <cloud_account display_value="AWS Cloud Account">81d1b61cdb4a130006817d668c96196b</cloud_account>
+        <location display_value="us-west-1">16c2721c4fce1300ab6174828110c744</location>
+        <price/>
+        <profile display_value="Ubuntu Server 16">4824fa9cdb4a130006817d668c96196d</profile>
+        <sys_class_name>sn_cmp_os_profile_mapping</sys_class_name>
+        <sys_created_by>shantanu.singh@snc</sys_created_by>
+        <sys_created_on>2018-05-09 16:16:53</sys_created_on>
+        <sys_id>2b343e9cdb4a130006817d668c961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CMP Usecases" source="x_snc_cmp_usecases">947132d4db4a130006817d668c96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMP Usecases">947132d4db4a130006817d668c96193c</sys_scope>
+        <sys_update_name>sn_cmp_os_profile_mapping_2b343e9cdb4a130006817d668c961994</sys_update_name>
+        <sys_updated_by>shantanu.singh@snc</sys_updated_by>
+        <sys_updated_on>2018-05-09 16:16:53</sys_updated_on>
+        <template display_value="amzn-ami-pv-2015.03.rc-1.x86_64-ebs">a913f65cdb4a130006817d668c9619d6</template>
+    </sn_cmp_os_profile_mapping>
+</record_update>
